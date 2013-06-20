@@ -13,7 +13,7 @@
 ;; Answer:
 ;; true
 
-;; Output:
+;; Code:
 (= true true)
 
 (comment
@@ -28,4 +28,4 @@
   (= (boolean "true") true) ;true
   (= (boolean nil) true) ;false
   All boolean values are truth except for nil.
- )
+)
